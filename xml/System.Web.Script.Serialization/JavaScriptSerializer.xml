@@ -13,7 +13,7 @@
   </Base>
   <Interfaces />
   <Docs>
-    <summary>[Json.NET](http://www.newtonsoft.com/json) should be used serialization and deserialization. Provides serialization and deserialization functionality for AJAX-enabled applications.</summary>
+    <summary>[Json.NET](http://www.newtonsoft.com/json) should be used for serialization and deserialization. It provides serialization and deserialization functionality for AJAX-enabled applications.</summary>
     <remarks>
       <format type="text/markdown"><![CDATA[  
   
